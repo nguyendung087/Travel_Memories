@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TravelMemories</string>
+    <string name="day">Day %d</string>
+    <string name="after_the_storm">After The Storm</string>
+    <string name="american_spirit">American Spirit</string>
+    <string name="bonzai_rock_sunset">Bonzai Rock Sunset</string>
+    <string name="burning_lake">Burning Lake</string>
+    <string name="despair">Despair</string>
+    <string name="foggy_sunset">Foggy Sunset</string>
+    <string name="forest_sunset">Forest Sunset</string>
+    <string name="golden_fog">Golden Fog</string>
+    <string name="gray_lake">Gray Lake</string>
+    <string name="hot_sand">Hot Sand</string>
+    <string name="alone_in_tokyo_ix_53457609257_o">Alone In Tokyo</string>
+    <string name="dotonbori_53067359216_o">Dotonbori</string>
+    <string name="light_rain_53387212243_o">Light Rain</string>
+    <string name="quiet_night_53028608256_o">Quiet Night</string>
+    <string name="safe_place_53047353513_o">Safe Place</string>
+    <string name="strike_a_pose_53331421784_o">Strike A Pose</string>
+    <string name="the_owner_53023833336_o">The Owner</string>
+    <string name="tunnel_53343600743_o">Tunnel</string>
+    <string name="no_more_53774825651_o">No More</string>
+    <string name="photobomb_53131328289_o">Photobomb</string>
+</resources>
